@@ -1,5 +1,7 @@
 # wak
 
+<span style="color:red">***wak is abandoned, much has changed, including me.***</span>
+
 *wak is a get-off-the-ground name, a completly bogus name!*
 
 wak is an alternative runtime for C++.  The reason a new runtime
